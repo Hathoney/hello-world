@@ -1,3 +1,6 @@
 # hello-world
 Intro to GH
-Daisy-doo and Miley-moo (but sometimes we call her Miley-poo)
+
+We are going to play around in this repo
+
+Find out what we can do
